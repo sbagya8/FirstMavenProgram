@@ -19,7 +19,7 @@ public class LoginPage {
 		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("SuperSecretPassword!");
 		driver.findElement(By.xpath("//button")).click();
 		//driver.findElement(By.partialLinkText("Elemental")).click();
-
+		//https://accounts.lambdatest.com/Register
 	}
 
 }
